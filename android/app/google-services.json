@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "383050161398",
+    "project_id": "tatkaljobs-e620e",
+    "storage_bucket": "tatkaljobs-e620e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383050161398:android:c1f3437667025df24b60d7",
+        "android_client_info": {
+          "package_name": "com.argent.job"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383050161398-b54bujupm26ecrqmprfbof57n9s03l55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.argent.job",
+            "certificate_hash": "086ec67d7c74c52930d87e2abd3553b8b3196cde"
+          }
+        },
+        {
+          "client_id": "383050161398-ndo15h02mb1egr97n8c6u4utdk667m38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUUdJUoJZ4WLfcdArGvxjsJyaKWUvZGzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383050161398-ndo15h02mb1egr97n8c6u4utdk667m38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383050161398:android:89bfb8db6a88b0554b60d7",
+        "android_client_info": {
+          "package_name": "com.example.tatkal_jobs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383050161398-2a4httfr2rbjismicdm4utesf91qpp98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tatkal_jobs_app",
+            "certificate_hash": "086ec67d7c74c52930d87e2abd3553b8b3196cde"
+          }
+        },
+        {
+          "client_id": "383050161398-ndo15h02mb1egr97n8c6u4utdk667m38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUUdJUoJZ4WLfcdArGvxjsJyaKWUvZGzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383050161398-ndo15h02mb1egr97n8c6u4utdk667m38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
