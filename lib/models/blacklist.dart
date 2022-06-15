@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
-////import '../widget/detailscreen.dart';
+////import '../widget/detailscreen.dart'; made by rohit
 
 class BlackList {
   late String id;
